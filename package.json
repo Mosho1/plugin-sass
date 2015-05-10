@@ -10,5 +10,5 @@
   },
   "devDependencies": {
     "node-sass": "^3.0.0"
-  },
+  }
 }
